@@ -8,7 +8,7 @@ const thoughtController = {
         .catch((err) => res.status(500).json(err))
     },
     //get thought by ID
-    getThoughtByID({ params }, res) {
+    getThoughtById({ params }, res) {
         Thought.findOne(
             { _id: params.id }
         ).then((thought) => {
