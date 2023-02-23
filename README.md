@@ -14,7 +14,7 @@ Run the following commands from the CLI at the root of your project:
 
 3. routes can be tested in Insomia
 
-Walkthrough video link: [NoSql Social Network]
+Walkthrough video link: [NoSql Social Network](https://drive.google.com/file/d/1lyuKdkp1K7cfFE9Koq1-cR_85NKwN-BP/view)
 
 ## Credits
 
